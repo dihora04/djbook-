@@ -1,0 +1,7 @@
+{
+  "name": "DJBook.in - AI DJ Finder",
+  "description": "An AI-powered platform to discover, compare, and book the perfect DJ for your event, grounded with real-time Google Maps data for location-based search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
